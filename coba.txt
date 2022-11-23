@@ -1,3 +1,2 @@
 Coba File
-Hello World
 SQL 
