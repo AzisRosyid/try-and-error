@@ -3,3 +3,5 @@ COBA RESOLUSI
 - Hello World2!
 - Make sure to understand git environment
 - Retrive high result
+- I have a target which is to achieve my purpose as soon as possible
+- To have more collaboration with many experts
