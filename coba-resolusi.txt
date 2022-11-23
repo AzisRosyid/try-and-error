@@ -1,0 +1,5 @@
+COBA RESOLUSI
+- Hello World!
+- Hello World2!
+- Make sure to understand git environment
+- Retrive high result
