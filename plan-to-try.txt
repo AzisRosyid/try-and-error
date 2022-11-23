@@ -1,4 +1,5 @@
 PLAN TO TRY
 
-- trying eand error
+- trying and error
+- very well
 - try Api 
